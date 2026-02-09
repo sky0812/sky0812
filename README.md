@@ -1,6 +1,6 @@
 # hey, i'm ilia 👋
 
-### **senior frontend engineer** · wroclaw, poland · open to new opportunities
+### **senior frontend engineer** · open to new opportunities
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
