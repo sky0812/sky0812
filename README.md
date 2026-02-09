@@ -63,7 +63,7 @@ building enterprise web apps for u.s. clients. next.js, typescript, tailwindcss,
 
 ## languages
 
-🇺🇦 ukrainian (native) · 🇷🇺 russian (native) · 🇬🇧 english (professional) · 🇵🇱 polish (working)
+![English](https://img.shields.io/badge/🇬🇧_English-012169?style=for-the-badge) ![Polish](https://img.shields.io/badge/🇵🇱_Polish-DC143C?style=for-the-badge) ![Ukrainian](https://img.shields.io/badge/🇺🇦_Ukrainian-005BBB?style=for-the-badge) ![Russian](https://img.shields.io/badge/🇷🇺_Russian-0039A6?style=for-the-badge)
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
