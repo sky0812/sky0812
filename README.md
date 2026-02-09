@@ -1,6 +1,6 @@
 # hey, i'm ilia 👋
 
-### **senior frontend engineer** · open to new opportunities
+### **SENIOR FRONTEND ENGINEER** · open to new opportunities
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
