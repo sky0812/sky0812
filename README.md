@@ -67,11 +67,13 @@ building enterprise web apps for u.s. clients. next.js, typescript, tailwindcss,
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
-## featured project
+## featured projects
 
-**[wpbaseline](https://github.com/sky0812/wpbaseline)** — personal wordpress starter theme. tailwindcss, laravel mix, browser-sync, mobile-first.
+**[nextjs-wordpress-starter](https://github.com/sky0812/nextjs-wordpress-starter)** — headless wordpress frontend. next.js 15, typescript, tailwind 4, acf flexible content, yoast seo, cf7.
 
-**[nextjs-job-board](https://github.com/sky0812/nextjs-job-board)** — hiring agency site with job board. next.js 15, typescript, tailwind 4, multi-api integration.  
+**[nextjs-job-board](https://github.com/sky0812/nextjs-job-board)** — hiring agency site with job board. next.js 15, typescript, tailwind 4, multi-api aggregation.
+
+**[wpbaseline](https://github.com/sky0812/wpbaseline)** — wordpress starter theme. tailwindcss, laravel mix, browser-sync, mobile-first.  
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
