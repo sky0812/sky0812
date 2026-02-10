@@ -63,17 +63,28 @@ building enterprise web apps for u.s. clients. next.js, typescript, tailwindcss,
 
 ## languages
 
-![English](https://img.shields.io/badge/🇬🇧_English-012169?style=for-the-badge) ![Polish](https://img.shields.io/badge/🇵🇱_Polish-DC143C?style=for-the-badge) ![Ukrainian](https://img.shields.io/badge/🇺🇦_Ukrainian-005BBB?style=for-the-badge) ![Russian](https://img.shields.io/badge/🇷🇺_Russian-0039A6?style=for-the-badge)
+<p>
+  <img src="./flags/en.svg" width="24" height="16" alt="EN" /> EN &nbsp;&nbsp;
+  <img src="./flags/pl.svg" width="24" height="16" alt="PL" /> PL &nbsp;&nbsp;
+  <img src="./flags/uk.svg" width="24" height="16" alt="UA" /> UA &nbsp;&nbsp;
+  <img src="./flags/ru.svg" width="24" height="16" alt="RU" /> RU
+</p>
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
 ## featured projects
 
-**[nextjs-wordpress-starter](https://github.com/sky0812/nextjs-wordpress-starter)** — headless wordpress frontend. next.js 15, typescript, tailwind 4, acf flexible content, yoast seo, cf7.
+**Next.js WordPress Starter** — Headless WordPress frontend with ACF flexible content, Yoast SEO, and CF7 integration. Next.js 15, TypeScript, Tailwind 4.
+[Live demo](https://wp-headless-platform.vercel.app/) | [GitHub](https://github.com/sky0812/nextjs-wordpress-starter)
 
-**[nextjs-job-board](https://github.com/sky0812/nextjs-job-board)** — hiring agency site with job board. next.js 15, typescript, tailwind 4, multi-api aggregation.
+**Next.js Job Board** — Hiring agency platform with job aggregation from multiple APIs. Next.js 15, TypeScript, Tailwind 4.
+[Live demo](https://talent-matching-platform.vercel.app/) | [GitHub](https://github.com/sky0812/nextjs-job-board)
 
-**[wpbaseline](https://github.com/sky0812/wpbaseline)** — wordpress starter theme. tailwindcss, laravel mix, browser-sync, mobile-first.  
+**Portfolio** — Personal portfolio with multi-language support (10 languages) and contact form. Next.js 15, TypeScript, Tailwind 4, Web3Forms, hCaptcha.
+[Live demo](https://igriniuk-portfolio.vercel.app/) | [GitHub](https://github.com/sky0812/portfolio)
+
+**WPBaseline** — WordPress starter theme with modern tooling. TailwindCSS, Laravel Mix, BrowserSync, mobile-first.
+[GitHub](https://github.com/sky0812/wpbaseline)  
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
