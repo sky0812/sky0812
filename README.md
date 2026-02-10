@@ -74,17 +74,21 @@ building enterprise web apps for u.s. clients. next.js, typescript, tailwindcss,
 
 ## featured projects
 
-**Next.js WordPress Starter** — Headless WordPress frontend with ACF flexible content, Yoast SEO, and CF7 integration. Next.js 15, TypeScript, Tailwind 4.
-[Live demo](https://wp-headless-platform.vercel.app/) | [GitHub](https://github.com/sky0812/nextjs-wordpress-starter)
+### `nextjs-wordpress-starter`
+Headless WordPress frontend with ACF flexible content, Yoast SEO, and CF7 integration. Next.js 15, TypeScript, Tailwind 4.
+<br>[Live demo](https://wp-headless-platform.vercel.app/) · [GitHub](https://github.com/sky0812/nextjs-wordpress-starter)
 
-**Next.js Job Board** — Hiring agency platform with job aggregation from multiple APIs. Next.js 15, TypeScript, Tailwind 4.
-[Live demo](https://talent-matching-platform.vercel.app/) | [GitHub](https://github.com/sky0812/nextjs-job-board)
+### `nextjs-job-board`
+Hiring agency platform with job aggregation from multiple APIs. Next.js 15, TypeScript, Tailwind 4.
+<br>[Live demo](https://talent-matching-platform.vercel.app/) · [GitHub](https://github.com/sky0812/nextjs-job-board)
 
-**Portfolio** — Personal portfolio with multi-language support (10 languages) and contact form. Next.js 15, TypeScript, Tailwind 4, Web3Forms, hCaptcha.
-[Live demo](https://igriniuk-portfolio.vercel.app/) | [GitHub](https://github.com/sky0812/portfolio)
+### `portfolio`
+Personal portfolio with multi-language support (10 languages) and contact form. Next.js 15, TypeScript, Tailwind 4, Web3Forms, hCaptcha.
+<br>[Live demo](https://igriniuk-portfolio.vercel.app/) · [GitHub](https://github.com/sky0812/portfolio)
 
-**WPBaseline** — WordPress starter theme with modern tooling. TailwindCSS, Laravel Mix, BrowserSync, mobile-first.
-[GitHub](https://github.com/sky0812/wpbaseline)  
+### `wpbaseline`
+WordPress starter theme with modern tooling. TailwindCSS, Laravel Mix, BrowserSync, mobile-first.
+<br>[GitHub](https://github.com/sky0812/wpbaseline)  
                                                                                                                                                                                
 ---                                                                                                                                                                          
 
