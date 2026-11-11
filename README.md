@@ -4,11 +4,11 @@
 
 ---
 
-7+ years shipping production web apps for u.s. clients — 5+ embedded full-time in an american agency's agile teams.
+7+ years shipping production web apps for u.s. clients, 5+ embedded full-time in an american agency's agile teams.
 
-the last year i went deep on ai: llm integrations in production, rag pipelines, ai-augmented workflows. i still ship pixel-perfect react/next.js — now with ai doing the boring parts so i can spend time on the hard ones.
+the last year i went deep on ai: llm integrations in production, rag pipelines, ai-augmented workflows. i still ship pixel-perfect react/next.js, now with ai doing the boring parts so i can spend time on the hard ones.
 
-currently employed full-time, open to **b2b side engagements — 4–6 hours daily, flexible schedule**. wrocław-based (on-site / hybrid / remote).
+currently employed full-time, open to **b2b side engagements, 4-6 hours daily, flexible schedule**. wrocław-based (on-site / hybrid / remote).
 
 ---
 
@@ -38,32 +38,32 @@ currently employed full-time, open to **b2b side engagements — 4–6 hours dai
 
 ## what i've built
 
-- **ai integrations** — llm chat features, rag pipelines, embedding-backed search, agentic tool-use
-- **financial services** — debt estimators, qualification tools, plan builders
-- **e-commerce** — food ordering platforms, payment flows, loyalty systems
-- **insurance** — quote comparison systems, multi-step forms
-- **integrations** — stripe, docusign, plaid, google maps, aws, openai/gemini/claude apis
+- **ai integrations**: llm chat features, rag pipelines, embedding-backed search, agentic tool-use
+- **financial services**: debt estimators, qualification tools, plan builders
+- **e-commerce**: food ordering platforms, payment flows, loyalty systems
+- **insurance**: quote comparison systems, multi-step forms
+- **integrations**: stripe, docusign, plaid, google maps, aws, openai/gemini/claude apis
 
 ---
 
 ## what i bring
 
-- **ai fluency** — llm api integration, rag architecture, prompt engineering, pragmatic choice between "call an api" and "build the pipeline"
-- **performance** — lighthouse 90–100, core web vitals optimization
-- **architecture** — reusable components, design systems, headless cms, serverless
-- **ai-augmented speed** — using cursor / claude code as a multiplier, with the judgment to know when ai is wrong
-- **quality** — automated testing, continuous refactoring, clean code
-- **accessibility** — wcag compliance, semantic html
+- **ai fluency**: llm api integration, rag architecture, prompt engineering, pragmatic choice between "call an api" and "build the pipeline"
+- **performance**: lighthouse 90-100, core web vitals optimization
+- **architecture**: reusable components, design systems, headless cms, serverless
+- **ai-augmented speed**: using cursor / claude code as a multiplier, with the judgment to know when ai is wrong
+- **quality**: automated testing, continuous refactoring, clean code
+- **accessibility**: wcag compliance, semantic html
 
 ---
 
 ## experience
 
-**senior frontend engineer @ goldencomm** · 2021 – present
+**senior frontend engineer @ goldencomm** · 2021-present
 
-shipping enterprise web apps for u.s. clients — next.js, typescript, tailwindcss, strapi, wordpress. the last year: added llm-powered features to production and shifted the day-to-day to an ai-assisted workflow.
+shipping enterprise web apps for u.s. clients, next.js, typescript, tailwindcss, strapi, wordpress. the last year: added llm-powered features to production and shifted the day-to-day to an ai-assisted workflow.
 
-**freelance wordpress developer** · 2016 – 2021
+**freelance wordpress developer** · 2016-2021
 
 50+ projects · 100+ reusable components · 10+ next.js apps
 
@@ -71,8 +71,8 @@ shipping enterprise web apps for u.s. clients — next.js, typescript, tailwindc
 
 ## side projects
 
-**ada ai** — personal rag-based coach, built end-to-end for my own daily use.
-next.js 16, typescript, tailwind, neon postgres with pgvector, gemini chat + embeddings, llm tool-calling for reminders and checklists, web push, cron-driven background jobs. ~5 months in daily personal use. *private — not publicly distributed.*
+**ada ai**: personal rag-based coach, built end-to-end for my own daily use.
+next.js 16, typescript, tailwind, neon postgres with pgvector, gemini chat + embeddings, llm tool-calling for reminders and checklists, web push, cron-driven background jobs. ~5 months in daily personal use. *private, not publicly distributed.*
 
 ---
 
@@ -113,4 +113,4 @@ WordPress starter theme with modern tooling. TailwindCSS, Laravel Mix, BrowserSy
 
 ---
 
-*open to b2b side contracts · 4–6 hours daily · flexible schedule · wrocław or remote*
+*open to b2b side contracts · 4-6 hours daily · flexible schedule · wrocław or remote*
