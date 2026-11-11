@@ -20,7 +20,7 @@ currently employed full-time, open to **b2b side engagements, 4-6 hours daily, f
 
 **ai & llm**
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Anthropic](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=for-the-badge&logoColor=white) ![pgvector](https://img.shields.io/badge/-pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 **cms & backend**
 
